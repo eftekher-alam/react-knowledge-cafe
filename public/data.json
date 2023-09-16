@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/CBSXv86/top-view-desk-concept-with-coffee.jpg",
+        "title": "The Art of Web Development",
+        "author_image": "https://i.ibb.co/V9Dc2My/pro-pic-male.jpg",
+        "author": "John Doe",
+        "posted_date": "2023-09-14",
+        "reading_time": 10,
+        "hashtags": [
+            "#webdevelopment",
+            "#coding",
+            "#frontend"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/Ypdw0k4/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+        "title": "Cooking Adventures",
+        "author_image": "https://i.ibb.co/DCp8qds/pro-pic-female.jpg",
+        "author": "Jane Smith",
+        "posted_date": "2023-09-12",
+        "reading_time": 8,
+        "hashtags": [
+            "#cooking",
+            "#recipes",
+            "#food"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/YcC5Mpw/desk-concept-frame-with-items.jpg",
+        "title": "Travel Diaries: Exploring the World",
+        "author_image": "https://i.ibb.co/DCp8qds/pro-pic-female.jpg",
+        "author": "Alice Johnson",
+        "posted_date": "2023-09-10",
+        "reading_time": 15,
+        "hashtags": [
+            "#travel",
+            "#adventure",
+            "#wanderlust"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/gT3R3qr/business-accessories-objects-top-view.jpg",
+        "title": "The Science of Space Exploration",
+        "author_image": "https://i.ibb.co/V9Dc2My/pro-pic-male.jpg",
+        "author": "David Wilson",
+        "posted_date": "2023-09-08",
+        "reading_time": 12,
+        "hashtags": [
+            "#space",
+            "#science",
+            "#astronomy"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/Ypdw0k4/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+        "title": "Health and Fitness: Your Guide to a Healthy Lifestyle",
+        "author_image": "https://i.ibb.co/DCp8qds/pro-pic-female.jpg",
+        "author": "Steven Smith",
+        "posted_date": "2023-09-06",
+        "reading_time": 9,
+        "hashtags": [
+            "#health",
+            "#fitness",
+            "#wellness"
+        ]
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co/YcC5Mpw/desk-concept-frame-with-items.jpg",
+        "title": "The World of Art: A Journey Through Creativity",
+        "author_image": "https://i.ibb.co/V9Dc2My/pro-pic-male.jpg",
+        "author": "Michael Davis",
+        "posted_date": "2023-09-04",
+        "reading_time": 14,
+        "hashtags": [
+            "#art",
+            "#creativity",
+            "#painting"
+        ]
+    },
+    {
+        "id": 7,
+        "cover": "https://i.ibb.co/CBSXv86/top-view-desk-concept-with-coffee.jpg",
+        "title": "Tech Trends: Exploring the Latest Innovations",
+        "author_image": "https://i.ibb.co/V9Dc2My/pro-pic-male.jpg",
+        "author": "Sarah Lee",
+        "posted_date": "2023-09-02",
+        "reading_time": 11,
+        "hashtags": [
+            "#technology",
+            "#innovation",
+            "#gadgets"
+        ]
+    },
+    {
+        "id": 8,
+        "cover": "https://i.ibb.co/gT3R3qr/business-accessories-objects-top-view.jpg",
+        "title": "Green Living: Sustainable Practices for a Better Planet",
+        "author_image": "https://i.ibb.co/DCp8qds/pro-pic-female.jpg",
+        "author": "James Smith",
+        "posted_date": "2023-08-31",
+        "reading_time": 13,
+        "hashtags": [
+            "#sustainability",
+            "#environment",
+            "#green"
+        ]
+    },
+    {
+        "id": 9,
+        "cover": "https://i.ibb.co/Ypdw0k4/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+        "title": "Movie Magic: Behind the Scenes of Hollywood",
+        "author_image": "https://i.ibb.co/V9Dc2My/pro-pic-male.jpg",
+        "author": "Sophia Turner",
+        "posted_date": "2023-08-29",
+        "reading_time": 10,
+        "hashtags": [
+            "#movies",
+            "#film",
+            "#cinema"
+        ]
+    },
+    {
+        "id": 10,
+        "cover": "https://i.ibb.co/YcC5Mpw/desk-concept-frame-with-items.jpg",
+        "title": "Innovative Cuisine: Culinary Adventures Around the World",
+        "author_image": "https://i.ibb.co/DCp8qds/pro-pic-female.jpg",
+        "author": "Robert Brown",
+        "posted_date": "2023-08-27",
+        "reading_time": 16,
+        "hashtags": [
+            "#food",
+            "#travel",
+            "#cuisine"
+        ]
+    }
+]
